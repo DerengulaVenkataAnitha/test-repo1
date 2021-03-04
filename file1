@@ -1,6 +1,6 @@
 hello
 hai
 {
-main()
+main("hello")
 }
 

@@ -3,5 +3,5 @@ hiii
 hilo
 }
 {
-bdjjcc()
+bdjjcc("hello")
 }
